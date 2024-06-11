@@ -1,1 +1,3 @@
 # Machine-Learning-Projects
+
+Welcome! I made this repository to demonstrate primarily all of the scikit-learn based machine learning projects I've worked on. Additionally, this repository will centered around both the real and the toy datasets provided by scikit-learn. Outside of this repo, there are several other machine learning projects I have worked on and am still working on. This repo was designed to act as a learning tool for me, where I spend time learning new models and trying new techniques. If you have any suggestions about any code you see, please feel free to let me know! None of these projects are closed, and I am more than happy to receive feedback.
